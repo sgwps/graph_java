@@ -1,0 +1,6074 @@
+[
+    {
+        "coordinate": {
+            "lat": 50.0672455,
+            "lon": 14.421648
+        },
+        "name": "Albertov",
+        "id": {
+            "node": 876,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0686836,
+            "lon": 14.4204521
+        },
+        "name": "Albertov",
+        "id": {
+            "node": 876,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.06782,
+            "lon": 14.4202976
+        },
+        "name": "Albertov",
+        "id": {
+            "node": 876,
+            "platform": 4
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07193,
+            "lon": 14.4036312
+        },
+        "name": "Anděl",
+        "id": {
+            "node": 1040,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0719528,
+            "lon": 14.4028082
+        },
+        "name": "Anděl",
+        "id": {
+            "node": 1040,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.071804,
+            "lon": 14.4042282
+        },
+        "name": "Anděl",
+        "id": {
+            "node": 1040,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0709763,
+            "lon": 14.4045515
+        },
+        "name": "Anděl",
+        "id": {
+            "node": 1040,
+            "platform": 4
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07625,
+            "lon": 14.4042015
+        },
+        "name": "Arbesovo náměstí",
+        "id": {
+            "node": 4,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0758858,
+            "lon": 14.4039783
+        },
+        "name": "Arbesovo náměstí",
+        "id": {
+            "node": 4,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1031036,
+            "lon": 14.4933529
+        },
+        "name": "Arena Libeň jih",
+        "id": {
+            "node": 348,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.10268,
+            "lon": 14.4958334
+        },
+        "name": "Arena Libeň jih",
+        "id": {
+            "node": 348,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1047554,
+            "lon": 14.4828053
+        },
+        "name": "Balabenka",
+        "id": {
+            "node": 12,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1043434,
+            "lon": 14.4818773
+        },
+        "name": "Balabenka",
+        "id": {
+            "node": 12,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1042328,
+            "lon": 14.4829206
+        },
+        "name": "Balabenka",
+        "id": {
+            "node": 12,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.092392,
+            "lon": 14.3698292
+        },
+        "name": "Baterie",
+        "id": {
+            "node": 15,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0924,
+            "lon": 14.3694105
+        },
+        "name": "Baterie",
+        "id": {
+            "node": 15,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07223,
+            "lon": 14.3932905
+        },
+        "name": "Bertramka",
+        "id": {
+            "node": 25,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07224,
+            "lon": 14.3924351
+        },
+        "name": "Bertramka",
+        "id": {
+            "node": 25,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0755463,
+            "lon": 14.3227892
+        },
+        "name": "Bílá Hora",
+        "id": {
+            "node": 31,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0755653,
+            "lon": 14.3228617
+        },
+        "name": "Bílá Hora",
+        "id": {
+            "node": 31,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.090168,
+            "lon": 14.4354715
+        },
+        "name": "Bílá labuť",
+        "id": {
+            "node": 32,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09035,
+            "lon": 14.4362621
+        },
+        "name": "Bílá labuť",
+        "id": {
+            "node": 32,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0885429,
+            "lon": 14.4687958
+        },
+        "name": "Biskupcova",
+        "id": {
+            "node": 34,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0891,
+            "lon": 14.4686346
+        },
+        "name": "Biskupcova",
+        "id": {
+            "node": 34,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0657043,
+            "lon": 14.3036213
+        },
+        "name": "Blatiny",
+        "id": {
+            "node": 47,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0658035,
+            "lon": 14.3020964
+        },
+        "name": "Blatiny",
+        "id": {
+            "node": 47,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0662041,
+            "lon": 14.4541845
+        },
+        "name": "Bohemians",
+        "id": {
+            "node": 508,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0664673,
+            "lon": 14.4563942
+        },
+        "name": "Bohemians",
+        "id": {
+            "node": 508,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0985222,
+            "lon": 14.36455
+        },
+        "name": "Bořislavka",
+        "id": {
+            "node": 157,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.098568,
+            "lon": 14.36378
+        },
+        "name": "Bořislavka",
+        "id": {
+            "node": 157,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0705,
+            "lon": 14.4196062
+        },
+        "name": "Botanická zahrada",
+        "id": {
+            "node": 42,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0710526,
+            "lon": 14.4189224
+        },
+        "name": "Botanická zahrada",
+        "id": {
+            "node": 42,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.061882,
+            "lon": 14.4025393
+        },
+        "name": "Braunova",
+        "id": {
+            "node": 1044,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0617447,
+            "lon": 14.4012
+        },
+        "name": "Braunova",
+        "id": {
+            "node": 1044,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07313,
+            "lon": 14.4333019
+        },
+        "name": "Bruselská",
+        "id": {
+            "node": 45,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07288,
+            "lon": 14.4332237
+        },
+        "name": "Bruselská",
+        "id": {
+            "node": 45,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0929756,
+            "lon": 14.3917332
+        },
+        "name": "Brusnice",
+        "id": {
+            "node": 46,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0930023,
+            "lon": 14.3912592
+        },
+        "name": "Brusnice",
+        "id": {
+            "node": 46,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.08318,
+            "lon": 14.35901
+        },
+        "name": "Břevnovský klášter",
+        "id": {
+            "node": 994,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0832024,
+            "lon": 14.3585424
+        },
+        "name": "Břevnovský klášter",
+        "id": {
+            "node": 994,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1260262,
+            "lon": 14.4571247
+        },
+        "name": "Březiněveská",
+        "id": {
+            "node": 718,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.12681,
+            "lon": 14.4568739
+        },
+        "name": "Březiněveská",
+        "id": {
+            "node": 718,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.11606,
+            "lon": 14.4681492
+        },
+        "name": "Bulovka",
+        "id": {
+            "node": 54,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1165428,
+            "lon": 14.467761
+        },
+        "name": "Bulovka",
+        "id": {
+            "node": 54,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0680656,
+            "lon": 14.4594707
+        },
+        "name": "Čechovo náměstí",
+        "id": {
+            "node": 67,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0678635,
+            "lon": 14.4582367
+        },
+        "name": "Čechovo náměstí",
+        "id": {
+            "node": 67,
+            "platform": 4
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0681725,
+            "lon": 14.4590368
+        },
+        "name": "Čechovo náměstí",
+        "id": {
+            "node": 67,
+            "platform": 7
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0940475,
+            "lon": 14.41689
+        },
+        "name": "Čechův most",
+        "id": {
+            "node": 68,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09409,
+            "lon": 14.4177275
+        },
+        "name": "Čechův most",
+        "id": {
+            "node": 68,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09684,
+            "lon": 14.352972
+        },
+        "name": "Červený Vrch",
+        "id": {
+            "node": 73,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09682,
+            "lon": 14.3523121
+        },
+        "name": "Červený Vrch",
+        "id": {
+            "node": 73,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.10033,
+            "lon": 14.3914833
+        },
+        "name": "Dejvická",
+        "id": {
+            "node": 321,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1003723,
+            "lon": 14.3906136
+        },
+        "name": "Dejvická",
+        "id": {
+            "node": 321,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1036568,
+            "lon": 14.4498167
+        },
+        "name": "Dělnická",
+        "id": {
+            "node": 81,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1026344,
+            "lon": 14.4500389
+        },
+        "name": "Dělnická",
+        "id": {
+            "node": 81,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.076252,
+            "lon": 14.5168867
+        },
+        "name": "Depo Hostivař",
+        "id": {
+            "node": 1071,
+            "platform": 8
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07631,
+            "lon": 14.5169153
+        },
+        "name": "Depo Hostivař",
+        "id": {
+            "node": 1071,
+            "platform": 9
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0776825,
+            "lon": 14.5163116
+        },
+        "name": "Depo Hostivař",
+        "id": {
+            "node": 1071,
+            "platform": 11
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0775032,
+            "lon": 14.5183783
+        },
+        "name": "Depo Hostivař",
+        "id": {
+            "node": 1071,
+            "platform": 12
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1067924,
+            "lon": 14.4885988
+        },
+        "name": "Divadlo Gong",
+        "id": {
+            "node": 308,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.10654,
+            "lon": 14.4880886
+        },
+        "name": "Divadlo Gong",
+        "id": {
+            "node": 308,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.06483,
+            "lon": 14.4362841
+        },
+        "name": "Divadlo Na Fidlovačce",
+        "id": {
+            "node": 83,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0646477,
+            "lon": 14.4371338
+        },
+        "name": "Divadlo Na Fidlovačce",
+        "id": {
+            "node": 83,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.10566,
+            "lon": 14.4727526
+        },
+        "name": "Divadlo pod Palmovkou",
+        "id": {
+            "node": 272,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0927277,
+            "lon": 14.3256788
+        },
+        "name": "Divoká Šárka",
+        "id": {
+            "node": 85,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09167,
+            "lon": 14.42754
+        },
+        "name": "Dlouhá třída",
+        "id": {
+            "node": 87,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.090538,
+            "lon": 14.4279
+        },
+        "name": "Dlouhá třída",
+        "id": {
+            "node": 87,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0839081,
+            "lon": 14.3706675
+        },
+        "name": "Drinopol",
+        "id": {
+            "node": 103,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.08397,
+            "lon": 14.3716021
+        },
+        "name": "Drinopol",
+        "id": {
+            "node": 103,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0654945,
+            "lon": 14.5018749
+        },
+        "name": "Dubečská",
+        "id": {
+            "node": 584,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.06522,
+            "lon": 14.5028276
+        },
+        "name": "Dubečská",
+        "id": {
+            "node": 584,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0477257,
+            "lon": 14.4143839
+        },
+        "name": "Dvorce",
+        "id": {
+            "node": 110,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.047184,
+            "lon": 14.4139538
+        },
+        "name": "Dvorce",
+        "id": {
+            "node": 110,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07792,
+            "lon": 14.4615164
+        },
+        "name": "Flora",
+        "id": {
+            "node": 118,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07788,
+            "lon": 14.4624348
+        },
+        "name": "Flora",
+        "id": {
+            "node": 118,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09117,
+            "lon": 14.4387846
+        },
+        "name": "Florenc",
+        "id": {
+            "node": 689,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09119,
+            "lon": 14.4392061
+        },
+        "name": "Florenc",
+        "id": {
+            "node": 689,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.03651,
+            "lon": 14.38843
+        },
+        "name": "Geologická",
+        "id": {
+            "node": 49,
+            "platform": 4
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0362549,
+            "lon": 14.3894386
+        },
+        "name": "Geologická",
+        "id": {
+            "node": 49,
+            "platform": 5
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0994225,
+            "lon": 14.3751459
+        },
+        "name": "Hadovka",
+        "id": {
+            "node": 130,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0995522,
+            "lon": 14.3757133
+        },
+        "name": "Hadovka",
+        "id": {
+            "node": 130,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.08566,
+            "lon": 14.4041758
+        },
+        "name": "Hellichova",
+        "id": {
+            "node": 138,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0841866,
+            "lon": 14.4044714
+        },
+        "name": "Hellichova",
+        "id": {
+            "node": 138,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1220741,
+            "lon": 14.4512243
+        },
+        "name": "Hercovka",
+        "id": {
+            "node": 139,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1218529,
+            "lon": 14.4533024
+        },
+        "name": "Hercovka",
+        "id": {
+            "node": 139,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.12205,
+            "lon": 14.45278
+        },
+        "name": "Hercovka",
+        "id": {
+            "node": 139,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0887,
+            "lon": 14.3875685
+        },
+        "name": "Hládkov",
+        "id": {
+            "node": 140,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0860825,
+            "lon": 14.4351139
+        },
+        "name": "Hlavní nádraží",
+        "id": {
+            "node": 142,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0856934,
+            "lon": 14.4359283
+        },
+        "name": "Hlavní nádraží",
+        "id": {
+            "node": 142,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.10618,
+            "lon": 14.5366907
+        },
+        "name": "Hloubětín",
+        "id": {
+            "node": 135,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.10617,
+            "lon": 14.5375671
+        },
+        "name": "Hloubětín",
+        "id": {
+            "node": 135,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0423927,
+            "lon": 14.4046
+        },
+        "name": "Hlubočepy",
+        "id": {
+            "node": 147,
+            "platform": 5
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0421677,
+            "lon": 14.4043875
+        },
+        "name": "Hlubočepy",
+        "id": {
+            "node": 147,
+            "platform": 6
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0640144,
+            "lon": 14.31641
+        },
+        "name": "Hlušičkova",
+        "id": {
+            "node": 113,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0637131,
+            "lon": 14.3156576
+        },
+        "name": "Hlušičkova",
+        "id": {
+            "node": 113,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09834,
+            "lon": 14.4443007
+        },
+        "name": "Holešovická tržnice",
+        "id": {
+            "node": 595,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0982361,
+            "lon": 14.4450417
+        },
+        "name": "Holešovická tržnice",
+        "id": {
+            "node": 595,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0271835,
+            "lon": 14.3582382
+        },
+        "name": "Holyně",
+        "id": {
+            "node": 2702,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.06145,
+            "lon": 14.4466267
+        },
+        "name": "Horky",
+        "id": {
+            "node": 152,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0616722,
+            "lon": 14.4458971
+        },
+        "name": "Horky",
+        "id": {
+            "node": 152,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0527725,
+            "lon": 14.5294981
+        },
+        "name": "Hostivařská",
+        "id": {
+            "node": 472,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.05267,
+            "lon": 14.53038
+        },
+        "name": "Hostivařská",
+        "id": {
+            "node": 472,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.06803,
+            "lon": 14.3466673
+        },
+        "name": "Hotel Golf",
+        "id": {
+            "node": 567,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0681,
+            "lon": 14.3467817
+        },
+        "name": "Hotel Golf",
+        "id": {
+            "node": 567,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0972977,
+            "lon": 14.4048729
+        },
+        "name": "Hradčanská",
+        "id": {
+            "node": 163,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09721,
+            "lon": 14.4038534
+        },
+        "name": "Hradčanská",
+        "id": {
+            "node": 163,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0349159,
+            "lon": 14.3779707
+        },
+        "name": "Chaplinovo náměstí",
+        "id": {
+            "node": 1050,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.03518,
+            "lon": 14.37722
+        },
+        "name": "Chaplinovo náměstí",
+        "id": {
+            "node": 1050,
+            "platform": 4
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.092556,
+            "lon": 14.4869614
+        },
+        "name": "Chmelnice",
+        "id": {
+            "node": 180,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0924873,
+            "lon": 14.4858379
+        },
+        "name": "Chmelnice",
+        "id": {
+            "node": 180,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0568962,
+            "lon": 14.46838
+        },
+        "name": "Chodovská",
+        "id": {
+            "node": 183,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0568466,
+            "lon": 14.4692745
+        },
+        "name": "Chodovská",
+        "id": {
+            "node": 183,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09551,
+            "lon": 14.408761
+        },
+        "name": "Chotkovy sady",
+        "id": {
+            "node": 187,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0953064,
+            "lon": 14.4090214
+        },
+        "name": "Chotkovy sady",
+        "id": {
+            "node": 187,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07554,
+            "lon": 14.4305944
+        },
+        "name": "I. P. Pavlova",
+        "id": {
+            "node": 190,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0754051,
+            "lon": 14.4316893
+        },
+        "name": "I. P. Pavlova",
+        "id": {
+            "node": 190,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07636,
+            "lon": 14.4319963
+        },
+        "name": "I. P. Pavlova",
+        "id": {
+            "node": 190,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0757332,
+            "lon": 14.4320393
+        },
+        "name": "I. P. Pavlova",
+        "id": {
+            "node": 190,
+            "platform": 4
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0978737,
+            "lon": 14.4650917
+        },
+        "name": "Invalidovna",
+        "id": {
+            "node": 655,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0981,
+            "lon": 14.4659147
+        },
+        "name": "Invalidovna",
+        "id": {
+            "node": 655,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0780334,
+            "lon": 14.4365168
+        },
+        "name": "Italská",
+        "id": {
+            "node": 191,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07829,
+            "lon": 14.435564
+        },
+        "name": "Italská",
+        "id": {
+            "node": 191,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.073513,
+            "lon": 14.4406815
+        },
+        "name": "Jana Masaryka",
+        "id": {
+            "node": 354,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07307,
+            "lon": 14.4414883
+        },
+        "name": "Jana Masaryka",
+        "id": {
+            "node": 354,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.085083,
+            "lon": 14.4301577
+        },
+        "name": "Jindřišská",
+        "id": {
+            "node": 203,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.08532,
+            "lon": 14.4307842
+        },
+        "name": "Jindřišská",
+        "id": {
+            "node": 203,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.076252,
+            "lon": 14.4141579
+        },
+        "name": "Jiráskovo náměstí",
+        "id": {
+            "node": 208,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0761452,
+            "lon": 14.4140005
+        },
+        "name": "Jiráskovo náměstí",
+        "id": {
+            "node": 208,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0772552,
+            "lon": 14.4504709
+        },
+        "name": "Jiřího z Poděbrad",
+        "id": {
+            "node": 209,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07711,
+            "lon": 14.4486876
+        },
+        "name": "Jiřího z Poděbrad",
+        "id": {
+            "node": 209,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0354729,
+            "lon": 14.38343
+        },
+        "name": "K Barrandovu",
+        "id": {
+            "node": 1049,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.03508,
+            "lon": 14.3827276
+        },
+        "name": "K Barrandovu",
+        "id": {
+            "node": 1049,
+            "platform": 4
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1024628,
+            "lon": 14.5082712
+        },
+        "name": "Kabešova",
+        "id": {
+            "node": 1401,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1023178,
+            "lon": 14.5080624
+        },
+        "name": "Kabešova",
+        "id": {
+            "node": 1401,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09948,
+            "lon": 14.4292574
+        },
+        "name": "Kamenická",
+        "id": {
+            "node": 231,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09971,
+            "lon": 14.4285669
+        },
+        "name": "Kamenická",
+        "id": {
+            "node": 231,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09275,
+            "lon": 14.44518
+        },
+        "name": "Karlínské náměstí",
+        "id": {
+            "node": 854,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09278,
+            "lon": 14.4461317
+        },
+        "name": "Karlínské náměstí",
+        "id": {
+            "node": 854,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0753021,
+            "lon": 14.4191093
+        },
+        "name": "Karlovo náměstí",
+        "id": {
+            "node": 237,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0764771,
+            "lon": 14.4192562
+        },
+        "name": "Karlovo náměstí",
+        "id": {
+            "node": 237,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0759,
+            "lon": 14.4196119
+        },
+        "name": "Karlovo náměstí",
+        "id": {
+            "node": 237,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.08457,
+            "lon": 14.4134665
+        },
+        "name": "Karlovy lázně",
+        "id": {
+            "node": 221,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0847626,
+            "lon": 14.4137468
+        },
+        "name": "Karlovy lázně",
+        "id": {
+            "node": 221,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07004,
+            "lon": 14.37063
+        },
+        "name": "Kavalírka",
+        "id": {
+            "node": 240,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07012,
+            "lon": 14.3710928
+        },
+        "name": "Kavalírka",
+        "id": {
+            "node": 240,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.122673,
+            "lon": 14.4558678
+        },
+        "name": "Ke Stírce",
+        "id": {
+            "node": 249,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1229858,
+            "lon": 14.4561529
+        },
+        "name": "Ke Stírce",
+        "id": {
+            "node": 249,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0706253,
+            "lon": 14.3800268
+        },
+        "name": "Klamovka",
+        "id": {
+            "node": 254,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0705833,
+            "lon": 14.3791418
+        },
+        "name": "Klamovka",
+        "id": {
+            "node": 254,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.092186,
+            "lon": 14.4929676
+        },
+        "name": "Kněžská luka",
+        "id": {
+            "node": 266,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0921478,
+            "lon": 14.4924822
+        },
+        "name": "Kněžská luka",
+        "id": {
+            "node": 266,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1246834,
+            "lon": 14.4563112
+        },
+        "name": "Kobylisy",
+        "id": {
+            "node": 675,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1249428,
+            "lon": 14.4566908
+        },
+        "name": "Kobylisy",
+        "id": {
+            "node": 675,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.06758,
+            "lon": 14.4614086
+        },
+        "name": "Koh-i-noor",
+        "id": {
+            "node": 269,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.06769,
+            "lon": 14.4622545
+        },
+        "name": "Koh-i-noor",
+        "id": {
+            "node": 269,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1106224,
+            "lon": 14.5158482
+        },
+        "name": "Kolbenova",
+        "id": {
+            "node": 75,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1105461,
+            "lon": 14.5161715
+        },
+        "name": "Kolbenova",
+        "id": {
+            "node": 75,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0997047,
+            "lon": 14.4205809
+        },
+        "name": "Korunovační",
+        "id": {
+            "node": 262,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0695648,
+            "lon": 14.3629227
+        },
+        "name": "Kotlářka",
+        "id": {
+            "node": 289,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.069603,
+            "lon": 14.3620148
+        },
+        "name": "Kotlářka",
+        "id": {
+            "node": 289,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.06995,
+            "lon": 14.3620462
+        },
+        "name": "Kotlářka",
+        "id": {
+            "node": 289,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0699959,
+            "lon": 14.3620462
+        },
+        "name": "Kotlářka",
+        "id": {
+            "node": 289,
+            "platform": 5
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.05447,
+            "lon": 14.436738
+        },
+        "name": "Kotorská",
+        "id": {
+            "node": 2784,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0541649,
+            "lon": 14.4369316
+        },
+        "name": "Kotorská",
+        "id": {
+            "node": 2784,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0848961,
+            "lon": 14.380744
+        },
+        "name": "Královka",
+        "id": {
+            "node": 362,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0942268,
+            "lon": 14.4049978
+        },
+        "name": "Královský letohrádek",
+        "id": {
+            "node": 20,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.094265,
+            "lon": 14.4045286
+        },
+        "name": "Královský letohrádek",
+        "id": {
+            "node": 20,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.066227,
+            "lon": 14.3264589
+        },
+        "name": "Krematorium Motol",
+        "id": {
+            "node": 395,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0659332,
+            "lon": 14.3256912
+        },
+        "name": "Krematorium Motol",
+        "id": {
+            "node": 395,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07732,
+            "lon": 14.48472
+        },
+        "name": "Krematorium Strašnice",
+        "id": {
+            "node": 299,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0771523,
+            "lon": 14.4856081
+        },
+        "name": "Krematorium Strašnice",
+        "id": {
+            "node": 299,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07198,
+            "lon": 14.4469948
+        },
+        "name": "Krymská",
+        "id": {
+            "node": 301,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.071888,
+            "lon": 14.4478159
+        },
+        "name": "Krymská",
+        "id": {
+            "node": 301,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0941963,
+            "lon": 14.4517746
+        },
+        "name": "Křižíkova",
+        "id": {
+            "node": 758,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09387,
+            "lon": 14.4510984
+        },
+        "name": "Křižíkova",
+        "id": {
+            "node": 758,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0631638,
+            "lon": 14.404707
+        },
+        "name": "Křížová",
+        "id": {
+            "node": 302,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0629654,
+            "lon": 14.4046745
+        },
+        "name": "Křížová",
+        "id": {
+            "node": 302,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0708847,
+            "lon": 14.47785
+        },
+        "name": "Kubánské náměstí",
+        "id": {
+            "node": 473,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0707169,
+            "lon": 14.4768591
+        },
+        "name": "Kubánské náměstí",
+        "id": {
+            "node": 473,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0705032,
+            "lon": 14.4776335
+        },
+        "name": "Kubánské náměstí",
+        "id": {
+            "node": 473,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0543976,
+            "lon": 14.4181223
+        },
+        "name": "Kublov",
+        "id": {
+            "node": 303,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.05453,
+            "lon": 14.4180737
+        },
+        "name": "Kublov",
+        "id": {
+            "node": 303,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.12618,
+            "lon": 14.4630222
+        },
+        "name": "Kyselova",
+        "id": {
+            "node": 314,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1261368,
+            "lon": 14.4639206
+        },
+        "name": "Kyselova",
+        "id": {
+            "node": 314,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1264839,
+            "lon": 14.4701414
+        },
+        "name": "Ládví",
+        "id": {
+            "node": 78,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.126503,
+            "lon": 14.470993
+        },
+        "name": "Ládví",
+        "id": {
+            "node": 78,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.06104,
+            "lon": 14.3976717
+        },
+        "name": "Laurová",
+        "id": {
+            "node": 319,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0611343,
+            "lon": 14.39736
+        },
+        "name": "Laurová",
+        "id": {
+            "node": 319,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07924,
+            "lon": 14.4199219
+        },
+        "name": "Lazarská",
+        "id": {
+            "node": 997,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0790672,
+            "lon": 14.421011
+        },
+        "name": "Lazarská",
+        "id": {
+            "node": 997,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0793648,
+            "lon": 14.4195013
+        },
+        "name": "Lazarská",
+        "id": {
+            "node": 997,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.08002,
+            "lon": 14.4198351
+        },
+        "name": "Lazarská",
+        "id": {
+            "node": 997,
+            "platform": 4
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.106884,
+            "lon": 14.5472269
+        },
+        "name": "Lehovec",
+        "id": {
+            "node": 72,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1068649,
+            "lon": 14.54738
+        },
+        "name": "Lehovec",
+        "id": {
+            "node": 72,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09995,
+            "lon": 14.4240913
+        },
+        "name": "Letenské náměstí",
+        "id": {
+            "node": 324,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1000023,
+            "lon": 14.4231186
+        },
+        "name": "Letenské náměstí",
+        "id": {
+            "node": 324,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.10345,
+            "lon": 14.464879
+        },
+        "name": "Libeňský most",
+        "id": {
+            "node": 331,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1033974,
+            "lon": 14.4657431
+        },
+        "name": "Libeňský most",
+        "id": {
+            "node": 331,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.10831,
+            "lon": 14.4722
+        },
+        "name": "Libeňský zámek",
+        "id": {
+            "node": 471,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.10859,
+            "lon": 14.4723654
+        },
+        "name": "Libeňský zámek",
+        "id": {
+            "node": 471,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.128727,
+            "lon": 14.4555454
+        },
+        "name": "Líbeznická",
+        "id": {
+            "node": 333,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1291656,
+            "lon": 14.4554682
+        },
+        "name": "Líbeznická",
+        "id": {
+            "node": 333,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.05143,
+            "lon": 14.4092245
+        },
+        "name": "Lihovar",
+        "id": {
+            "node": 337,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0512772,
+            "lon": 14.4091425
+        },
+        "name": "Lihovar",
+        "id": {
+            "node": 337,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0776062,
+            "lon": 14.50498
+        },
+        "name": "Limuzská",
+        "id": {
+            "node": 827,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0776,
+            "lon": 14.5059166
+        },
+        "name": "Limuzská",
+        "id": {
+            "node": 827,
+            "platform": 4
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0839157,
+            "lon": 14.4537115
+        },
+        "name": "Lipanská",
+        "id": {
+            "node": 339,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0840073,
+            "lon": 14.4531565
+        },
+        "name": "Lipanská",
+        "id": {
+            "node": 339,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1034851,
+            "lon": 14.3949137
+        },
+        "name": "Lotyšská",
+        "id": {
+            "node": 350,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.10418,
+            "lon": 14.3950319
+        },
+        "name": "Lotyšská",
+        "id": {
+            "node": 350,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0773048,
+            "lon": 14.5242815
+        },
+        "name": "Malešická továrna",
+        "id": {
+            "node": 358,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0771828,
+            "lon": 14.5252371
+        },
+        "name": "Malešická továrna",
+        "id": {
+            "node": 358,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0903625,
+            "lon": 14.4101009
+        },
+        "name": "Malostranská",
+        "id": {
+            "node": 360,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0909462,
+            "lon": 14.4099865
+        },
+        "name": "Malostranská",
+        "id": {
+            "node": 360,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.08798,
+            "lon": 14.4043283
+        },
+        "name": "Malostranské náměstí",
+        "id": {
+            "node": 361,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0882721,
+            "lon": 14.40448
+        },
+        "name": "Malostranské náměstí",
+        "id": {
+            "node": 361,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0855942,
+            "lon": 14.3825035
+        },
+        "name": "Malovanka",
+        "id": {
+            "node": 362,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.08553,
+            "lon": 14.3816481
+        },
+        "name": "Malovanka",
+        "id": {
+            "node": 362,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07591,
+            "lon": 14.3312407
+        },
+        "name": "Malý Břevnov",
+        "id": {
+            "node": 364,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07636,
+            "lon": 14.3336124
+        },
+        "name": "Malý Břevnov",
+        "id": {
+            "node": 364,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1033478,
+            "lon": 14.4526577
+        },
+        "name": "Maniny",
+        "id": {
+            "node": 365,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1032448,
+            "lon": 14.4538717
+        },
+        "name": "Maniny",
+        "id": {
+            "node": 365,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0845375,
+            "lon": 14.3758984
+        },
+        "name": "Marjánka",
+        "id": {
+            "node": 366,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0845375,
+            "lon": 14.375493
+        },
+        "name": "Marjánka",
+        "id": {
+            "node": 366,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0874939,
+            "lon": 14.432436
+        },
+        "name": "Masarykovo nádraží",
+        "id": {
+            "node": 480,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.08812,
+            "lon": 14.43259
+        },
+        "name": "Masarykovo nádraží",
+        "id": {
+            "node": 480,
+            "platform": 4
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0816574,
+            "lon": 14.4717417
+        },
+        "name": "Mezi Hřbitovy",
+        "id": {
+            "node": 373,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0550652,
+            "lon": 14.4538288
+        },
+        "name": "Michelská",
+        "id": {
+            "node": 376,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0550423,
+            "lon": 14.4541006
+        },
+        "name": "Michelská",
+        "id": {
+            "node": 376,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0740242,
+            "lon": 14.4187307
+        },
+        "name": "Moráň",
+        "id": {
+            "node": 237,
+            "platform": 4
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0676727,
+            "lon": 14.3365221
+        },
+        "name": "Motol",
+        "id": {
+            "node": 394,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0677147,
+            "lon": 14.3356848
+        },
+        "name": "Motol",
+        "id": {
+            "node": 394,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07884,
+            "lon": 14.432457
+        },
+        "name": "Muzeum",
+        "id": {
+            "node": 400,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07876,
+            "lon": 14.4324961
+        },
+        "name": "Muzeum",
+        "id": {
+            "node": 400,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07817,
+            "lon": 14.4190493
+        },
+        "name": "Myslíkova",
+        "id": {
+            "node": 401,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0779648,
+            "lon": 14.41795
+        },
+        "name": "Myslíkova",
+        "id": {
+            "node": 401,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0529747,
+            "lon": 14.524025
+        },
+        "name": "Na Groši",
+        "id": {
+            "node": 403,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.052906,
+            "lon": 14.52377
+        },
+        "name": "Na Groši",
+        "id": {
+            "node": 403,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07631,
+            "lon": 14.530406
+        },
+        "name": "Na Homoli",
+        "id": {
+            "node": 404,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0761375,
+            "lon": 14.5306692
+        },
+        "name": "Na Homoli",
+        "id": {
+            "node": 404,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.070507,
+            "lon": 14.4887
+        },
+        "name": "Na Hroudě",
+        "id": {
+            "node": 599,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07,
+            "lon": 14.4892712
+        },
+        "name": "Na Hroudě",
+        "id": {
+            "node": 599,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.06852,
+            "lon": 14.4064989
+        },
+        "name": "Na Knížecí",
+        "id": {
+            "node": 1040,
+            "platform": 5
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.06786,
+            "lon": 14.40675
+        },
+        "name": "Na Knížecí",
+        "id": {
+            "node": 1040,
+            "platform": 6
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0989571,
+            "lon": 14.3696918
+        },
+        "name": "Na Pískách",
+        "id": {
+            "node": 40,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0990868,
+            "lon": 14.3703451
+        },
+        "name": "Na Pískách",
+        "id": {
+            "node": 40,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.05624,
+            "lon": 14.4412212
+        },
+        "name": "Na Veselí",
+        "id": {
+            "node": 433,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.05658,
+            "lon": 14.4414186
+        },
+        "name": "Na Veselí",
+        "id": {
+            "node": 433,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09632,
+            "lon": 14.4312992
+        },
+        "name": "Nábřeží Kapitána Jaroše",
+        "id": {
+            "node": 439,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0939445,
+            "lon": 14.3367186
+        },
+        "name": "Nad Džbánem",
+        "id": {
+            "node": 283,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0941,
+            "lon": 14.3372011
+        },
+        "name": "Nad Džbánem",
+        "id": {
+            "node": 283,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.12033,
+            "lon": 14.4388819
+        },
+        "name": "Nad Trojou",
+        "id": {
+            "node": 447,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1203766,
+            "lon": 14.4397917
+        },
+        "name": "Nad Trojou",
+        "id": {
+            "node": 447,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.10383,
+            "lon": 14.5241747
+        },
+        "name": "Nademlejnská",
+        "id": {
+            "node": 755,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1038,
+            "lon": 14.5250587
+        },
+        "name": "Nademlejnská",
+        "id": {
+            "node": 755,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.02913,
+            "lon": 14.406003
+        },
+        "name": "Nádraží Braník",
+        "id": {
+            "node": 449,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0291176,
+            "lon": 14.4058752
+        },
+        "name": "Nádraží Braník",
+        "id": {
+            "node": 449,
+            "platform": 5
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.10967,
+            "lon": 14.43753
+        },
+        "name": "Nádraží Holešovice",
+        "id": {
+            "node": 115,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1102943,
+            "lon": 14.4373407
+        },
+        "name": "Nádraží Holešovice",
+        "id": {
+            "node": 115,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.10818,
+            "lon": 14.4399977
+        },
+        "name": "Nádraží Holešovice",
+        "id": {
+            "node": 115,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.10808,
+            "lon": 14.4408741
+        },
+        "name": "Nádraží Holešovice",
+        "id": {
+            "node": 115,
+            "platform": 4
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0533447,
+            "lon": 14.5365829
+        },
+        "name": "Nádraží Hostivař",
+        "id": {
+            "node": 453,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0533066,
+            "lon": 14.5366344
+        },
+        "name": "Nádraží Hostivař",
+        "id": {
+            "node": 453,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.10211,
+            "lon": 14.50219
+        },
+        "name": "Nádraží Libeň",
+        "id": {
+            "node": 134,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1019974,
+            "lon": 14.5024605
+        },
+        "name": "Nádraží Libeň",
+        "id": {
+            "node": 134,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.111187,
+            "lon": 14.3940859
+        },
+        "name": "Nádraží Podbaba",
+        "id": {
+            "node": 126,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0959778,
+            "lon": 14.3483438
+        },
+        "name": "Nádraží Veleslavín",
+        "id": {
+            "node": 462,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0957222,
+            "lon": 14.3460827
+        },
+        "name": "Nádraží Veleslavín",
+        "id": {
+            "node": 462,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0661125,
+            "lon": 14.4475842
+        },
+        "name": "Nádraží Vršovice",
+        "id": {
+            "node": 463,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0659943,
+            "lon": 14.4484577
+        },
+        "name": "Nádraží Vršovice",
+        "id": {
+            "node": 463,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1103249,
+            "lon": 14.499
+        },
+        "name": "Nádraží Vysočany",
+        "id": {
+            "node": 474,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.11013,
+            "lon": 14.4990931
+        },
+        "name": "Nádraží Vysočany",
+        "id": {
+            "node": 474,
+            "platform": 8
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0622978,
+            "lon": 14.50424
+        },
+        "name": "Nádraží Zahradní Město",
+        "id": {
+            "node": 2781,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.06171,
+            "lon": 14.503953
+        },
+        "name": "Nádraží Zahradní Město",
+        "id": {
+            "node": 2781,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0849724,
+            "lon": 14.4704285
+        },
+        "name": "Nákladové nádraží Žižkov",
+        "id": {
+            "node": 469,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.08563,
+            "lon": 14.470274
+        },
+        "name": "Nákladové nádraží Žižkov",
+        "id": {
+            "node": 469,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.08414,
+            "lon": 14.4690657
+        },
+        "name": "Nákladové nádraží Žižkov",
+        "id": {
+            "node": 469,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0841866,
+            "lon": 14.4698277
+        },
+        "name": "Nákladové nádraží Žižkov",
+        "id": {
+            "node": 469,
+            "platform": 4
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0645142,
+            "lon": 14.4405737
+        },
+        "name": "Náměstí Bratří Synků",
+        "id": {
+            "node": 482,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.06412,
+            "lon": 14.4411993
+        },
+        "name": "Náměstí Bratří Synků",
+        "id": {
+            "node": 482,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.06464,
+            "lon": 14.4406824
+        },
+        "name": "Náměstí Bratří Synků",
+        "id": {
+            "node": 482,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.06461,
+            "lon": 14.4414234
+        },
+        "name": "Náměstí Bratří Synků",
+        "id": {
+            "node": 482,
+            "platform": 9
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07501,
+            "lon": 14.435997
+        },
+        "name": "Náměstí Míru",
+        "id": {
+            "node": 476,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07492,
+            "lon": 14.4368906
+        },
+        "name": "Náměstí Míru",
+        "id": {
+            "node": 476,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.03044,
+            "lon": 14.3620911
+        },
+        "name": "Náměstí Olgy Scheinpflugové",
+        "id": {
+            "node": 2701,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.029995,
+            "lon": 14.3614321
+        },
+        "name": "Náměstí Olgy Scheinpflugové",
+        "id": {
+            "node": 2701,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0887833,
+            "lon": 14.4300232
+        },
+        "name": "Náměstí Republiky",
+        "id": {
+            "node": 480,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0885429,
+            "lon": 14.4292564
+        },
+        "name": "Náměstí Republiky",
+        "id": {
+            "node": 480,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0814133,
+            "lon": 14.4148855
+        },
+        "name": "Národní divadlo",
+        "id": {
+            "node": 483,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0814476,
+            "lon": 14.413723
+        },
+        "name": "Národní divadlo",
+        "id": {
+            "node": 483,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.08039,
+            "lon": 14.4135628
+        },
+        "name": "Národní divadlo",
+        "id": {
+            "node": 483,
+            "platform": 5
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0798149,
+            "lon": 14.4138079
+        },
+        "name": "Národní divadlo",
+        "id": {
+            "node": 483,
+            "platform": 6
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0811577,
+            "lon": 14.4195929
+        },
+        "name": "Národní třída",
+        "id": {
+            "node": 539,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0816879,
+            "lon": 14.4194965
+        },
+        "name": "Národní třída",
+        "id": {
+            "node": 539,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0778847,
+            "lon": 14.5106506
+        },
+        "name": "Nové Strašnice",
+        "id": {
+            "node": 70,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07782,
+            "lon": 14.5113544
+        },
+        "name": "Nové Strašnice",
+        "id": {
+            "node": 70,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0780563,
+            "lon": 14.5093851
+        },
+        "name": "Nové Strašnice",
+        "id": {
+            "node": 70,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0774574,
+            "lon": 14.4195223
+        },
+        "name": "Novoměstská radnice",
+        "id": {
+            "node": 237,
+            "platform": 13
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.10986,
+            "lon": 14.5281868
+        },
+        "name": "Nový Hloubětín",
+        "id": {
+            "node": 499,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.10929,
+            "lon": 14.5280781
+        },
+        "name": "Nový Hloubětín",
+        "id": {
+            "node": 499,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.06287,
+            "lon": 14.442379
+        },
+        "name": "Nuselská radnice",
+        "id": {
+            "node": 503,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0628624,
+            "lon": 14.4408026
+        },
+        "name": "Nuselská radnice",
+        "id": {
+            "node": 503,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.06831,
+            "lon": 14.4353323
+        },
+        "name": "Nuselské schody",
+        "id": {
+            "node": 504,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.06823,
+            "lon": 14.4357519
+        },
+        "name": "Nuselské schody",
+        "id": {
+            "node": 504,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0538521,
+            "lon": 14.5191708
+        },
+        "name": "Obchodní centrum Hostivař",
+        "id": {
+            "node": 596,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.05387,
+            "lon": 14.518919
+        },
+        "name": "Obchodní centrum Hostivař",
+        "id": {
+            "node": 596,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0781174,
+            "lon": 14.3409853
+        },
+        "name": "Obora Hvězda",
+        "id": {
+            "node": 610,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0779572,
+            "lon": 14.33994
+        },
+        "name": "Obora Hvězda",
+        "id": {
+            "node": 610,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.10365,
+            "lon": 14.4880724
+        },
+        "name": "Ocelářská",
+        "id": {
+            "node": 1075,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.10344,
+            "lon": 14.48877
+        },
+        "name": "Ocelářská",
+        "id": {
+            "node": 1075,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09059,
+            "lon": 14.4690933
+        },
+        "name": "Ohrada",
+        "id": {
+            "node": 512,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09067,
+            "lon": 14.4700918
+        },
+        "name": "Ohrada",
+        "id": {
+            "node": 512,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1195869,
+            "lon": 14.4607468
+        },
+        "name": "Okrouhlická",
+        "id": {
+            "node": 514,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.11977,
+            "lon": 14.4599152
+        },
+        "name": "Okrouhlická",
+        "id": {
+            "node": 514,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0834236,
+            "lon": 14.46454
+        },
+        "name": "Olšanská",
+        "id": {
+            "node": 586,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.083477,
+            "lon": 14.4653978
+        },
+        "name": "Olšanská",
+        "id": {
+            "node": 586,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07814,
+            "lon": 14.4664564
+        },
+        "name": "Olšanské hřbitovy",
+        "id": {
+            "node": 515,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0781136,
+            "lon": 14.4673481
+        },
+        "name": "Olšanské hřbitovy",
+        "id": {
+            "node": 515,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.08249,
+            "lon": 14.4574671
+        },
+        "name": "Olšanské náměstí",
+        "id": {
+            "node": 516,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.08245,
+            "lon": 14.4577379
+        },
+        "name": "Olšanské náměstí",
+        "id": {
+            "node": 516,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0756149,
+            "lon": 14.4594955
+        },
+        "name": "Orionka",
+        "id": {
+            "node": 518,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0755043,
+            "lon": 14.45895
+        },
+        "name": "Orionka",
+        "id": {
+            "node": 518,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1078262,
+            "lon": 14.44708
+        },
+        "name": "Ortenovo náměstí",
+        "id": {
+            "node": 521,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.10761,
+            "lon": 14.4485731
+        },
+        "name": "Ortenovo náměstí",
+        "id": {
+            "node": 521,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09284,
+            "lon": 14.3795481
+        },
+        "name": "Ořechovka",
+        "id": {
+            "node": 519,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0929146,
+            "lon": 14.3788786
+        },
+        "name": "Ořechovka",
+        "id": {
+            "node": 519,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0650558,
+            "lon": 14.4252234
+        },
+        "name": "Ostrčilovo náměstí",
+        "id": {
+            "node": 522,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.06507,
+            "lon": 14.4243584
+        },
+        "name": "Ostrčilovo náměstí",
+        "id": {
+            "node": 522,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.06549,
+            "lon": 14.4401016
+        },
+        "name": "Otakarova",
+        "id": {
+            "node": 482,
+            "platform": 5
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0656662,
+            "lon": 14.4408512
+        },
+        "name": "Otakarova",
+        "id": {
+            "node": 482,
+            "platform": 6
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07323,
+            "lon": 14.415247
+        },
+        "name": "Palackého náměstí",
+        "id": {
+            "node": 237,
+            "platform": 5
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0732765,
+            "lon": 14.4143248
+        },
+        "name": "Palackého náměstí",
+        "id": {
+            "node": 237,
+            "platform": 6
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.072506,
+            "lon": 14.4141092
+        },
+        "name": "Palackého náměstí",
+        "id": {
+            "node": 237,
+            "platform": 7
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0719452,
+            "lon": 14.4141016
+        },
+        "name": "Palackého náměstí",
+        "id": {
+            "node": 237,
+            "platform": 8
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1024742,
+            "lon": 14.4733868
+        },
+        "name": "Palmovka",
+        "id": {
+            "node": 529,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1037636,
+            "lon": 14.4747887
+        },
+        "name": "Palmovka",
+        "id": {
+            "node": 529,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1035347,
+            "lon": 14.471818
+        },
+        "name": "Palmovka",
+        "id": {
+            "node": 529,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1045036,
+            "lon": 14.47317
+        },
+        "name": "Palmovka",
+        "id": {
+            "node": 529,
+            "platform": 4
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1043167,
+            "lon": 14.4758511
+        },
+        "name": "Palmovka",
+        "id": {
+            "node": 529,
+            "platform": 5
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.06186,
+            "lon": 14.4376
+        },
+        "name": "Palouček",
+        "id": {
+            "node": 530,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0611267,
+            "lon": 14.4368191
+        },
+        "name": "Palouček",
+        "id": {
+            "node": 530,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0522346,
+            "lon": 14.4390812
+        },
+        "name": "Pankrác",
+        "id": {
+            "node": 385,
+            "platform": 11
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09068,
+            "lon": 14.3855448
+        },
+        "name": "Park Maxe van der Stoela",
+        "id": {
+            "node": 140,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0900841,
+            "lon": 14.3858595
+        },
+        "name": "Park Maxe van der Stoela",
+        "id": {
+            "node": 140,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07546,
+            "lon": 14.454484
+        },
+        "name": "Perunova",
+        "id": {
+            "node": 540,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.075386,
+            "lon": 14.4540939
+        },
+        "name": "Perunova",
+        "id": {
+            "node": 540,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0882,
+            "lon": 14.34518
+        },
+        "name": "Petřiny",
+        "id": {
+            "node": 507,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0881424,
+            "lon": 14.344635
+        },
+        "name": "Petřiny",
+        "id": {
+            "node": 507,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.05655,
+            "lon": 14.4646091
+        },
+        "name": "Plynárna Michle",
+        "id": {
+            "node": 550,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0565033,
+            "lon": 14.4652977
+        },
+        "name": "Plynárna Michle",
+        "id": {
+            "node": 550,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0637,
+            "lon": 14.4088173
+        },
+        "name": "Plzeňka",
+        "id": {
+            "node": 553,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0634651,
+            "lon": 14.4087191
+        },
+        "name": "Plzeňka",
+        "id": {
+            "node": 553,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0342064,
+            "lon": 14.4074478
+        },
+        "name": "Pobřežní cesta",
+        "id": {
+            "node": 387,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0336037,
+            "lon": 14.4079428
+        },
+        "name": "Pobřežní cesta",
+        "id": {
+            "node": 387,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0584,
+            "lon": 14.4499874
+        },
+        "name": "Pod Jezerkou",
+        "id": {
+            "node": 559,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0577927,
+            "lon": 14.450202
+        },
+        "name": "Pod Jezerkou",
+        "id": {
+            "node": 559,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.06979,
+            "lon": 14.4328279
+        },
+        "name": "Pod Karlovem",
+        "id": {
+            "node": 560,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0685425,
+            "lon": 14.4326572
+        },
+        "name": "Pod Karlovem",
+        "id": {
+            "node": 560,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.10295,
+            "lon": 14.5134544
+        },
+        "name": "Podkovářská",
+        "id": {
+            "node": 691,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1029663,
+            "lon": 14.5143747
+        },
+        "name": "Podkovářská",
+        "id": {
+            "node": 691,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0598869,
+            "lon": 14.4193621
+        },
+        "name": "Podolská vodárna",
+        "id": {
+            "node": 583,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0584145,
+            "lon": 14.41935
+        },
+        "name": "Podolská vodárna",
+        "id": {
+            "node": 583,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0876961,
+            "lon": 14.3882656
+        },
+        "name": "Pohořelec",
+        "id": {
+            "node": 531,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0879,
+            "lon": 14.3881292
+        },
+        "name": "Pohořelec",
+        "id": {
+            "node": 531,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.03405,
+            "lon": 14.374547
+        },
+        "name": "Poliklinika Barrandov",
+        "id": {
+            "node": 1030,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.03368,
+            "lon": 14.3737879
+        },
+        "name": "Poliklinika Barrandov",
+        "id": {
+            "node": 1030,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1089745,
+            "lon": 14.4948635
+        },
+        "name": "Poliklinika Vysočany",
+        "id": {
+            "node": 464,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1088638,
+            "lon": 14.4947615
+        },
+        "name": "Poliklinika Vysočany",
+        "id": {
+            "node": 464,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.06855,
+            "lon": 14.3543
+        },
+        "name": "Poštovka",
+        "id": {
+            "node": 580,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0684624,
+            "lon": 14.3534241
+        },
+        "name": "Poštovka",
+        "id": {
+            "node": 580,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1106224,
+            "lon": 14.5083351
+        },
+        "name": "Poštovská",
+        "id": {
+            "node": 873,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.11056,
+            "lon": 14.5094738
+        },
+        "name": "Poštovská",
+        "id": {
+            "node": 873,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09491,
+            "lon": 14.3962765
+        },
+        "name": "Prašný most",
+        "id": {
+            "node": 592,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09473,
+            "lon": 14.3938713
+        },
+        "name": "Prašný most",
+        "id": {
+            "node": 592,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0917053,
+            "lon": 14.4178619
+        },
+        "name": "Právnická fakulta",
+        "id": {
+            "node": 593,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09125,
+            "lon": 14.4176025
+        },
+        "name": "Právnická fakulta",
+        "id": {
+            "node": 593,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.05654,
+            "lon": 14.4345293
+        },
+        "name": "Pražského povstání",
+        "id": {
+            "node": 597,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0560722,
+            "lon": 14.4348917
+        },
+        "name": "Pražského povstání",
+        "id": {
+            "node": 597,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0933151,
+            "lon": 14.3979626
+        },
+        "name": "Pražský hrad",
+        "id": {
+            "node": 598,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0933342,
+            "lon": 14.3985071
+        },
+        "name": "Pražský hrad",
+        "id": {
+            "node": 598,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.071434,
+            "lon": 14.4856491
+        },
+        "name": "Průběžná",
+        "id": {
+            "node": 605,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0715942,
+            "lon": 14.4865723
+        },
+        "name": "Průběžná",
+        "id": {
+            "node": 605,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0403137,
+            "lon": 14.4096384
+        },
+        "name": "Přístaviště",
+        "id": {
+            "node": 614,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0397377,
+            "lon": 14.4092312
+        },
+        "name": "Přístaviště",
+        "id": {
+            "node": 614,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.077652,
+            "lon": 14.4572792
+        },
+        "name": "Radhošťská",
+        "id": {
+            "node": 616,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0776138,
+            "lon": 14.4576845
+        },
+        "name": "Radhošťská",
+        "id": {
+            "node": 616,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0587921,
+            "lon": 14.3894157
+        },
+        "name": "Radlická",
+        "id": {
+            "node": 957,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.06694,
+            "lon": 14.4960423
+        },
+        "name": "Radošovická",
+        "id": {
+            "node": 618,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.06664,
+            "lon": 14.4967976
+        },
+        "name": "Radošovická",
+        "id": {
+            "node": 618,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.06694,
+            "lon": 14.4948683
+        },
+        "name": "Radošovická",
+        "id": {
+            "node": 618,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07166,
+            "lon": 14.451273
+        },
+        "name": "Ruská",
+        "id": {
+            "node": 627,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.071228,
+            "lon": 14.451376
+        },
+        "name": "Ruská",
+        "id": {
+            "node": 627,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0814476,
+            "lon": 14.3533468
+        },
+        "name": "Říčanova",
+        "id": {
+            "node": 636,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0813255,
+            "lon": 14.3527679
+        },
+        "name": "Říčanova",
+        "id": {
+            "node": 636,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09278,
+            "lon": 14.3842039
+        },
+        "name": "Sibeliova",
+        "id": {
+            "node": 645,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09287,
+            "lon": 14.3836861
+        },
+        "name": "Sibeliova",
+        "id": {
+            "node": 645,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0315,
+            "lon": 14.3684816
+        },
+        "name": "Sídliště Barrandov",
+        "id": {
+            "node": 1019,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.03151,
+            "lon": 14.3677711
+        },
+        "name": "Sídliště Barrandov",
+        "id": {
+            "node": 1019,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09798,
+            "lon": 14.3591881
+        },
+        "name": "Sídliště Červený Vrch",
+        "id": {
+            "node": 943,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09807,
+            "lon": 14.3592873
+        },
+        "name": "Sídliště Červený Vrch",
+        "id": {
+            "node": 943,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1327057,
+            "lon": 14.4794893
+        },
+        "name": "Sídliště Ďáblice",
+        "id": {
+            "node": 651,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.10656,
+            "lon": 14.542491
+        },
+        "name": "Sídliště Hloubětín",
+        "id": {
+            "node": 652,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1065369,
+            "lon": 14.5435677
+        },
+        "name": "Sídliště Hloubětín",
+        "id": {
+            "node": 652,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0869751,
+            "lon": 14.3397741
+        },
+        "name": "Sídliště Petřiny",
+        "id": {
+            "node": 541,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0651436,
+            "lon": 14.2989044
+        },
+        "name": "Sídliště Řepy",
+        "id": {
+            "node": 612,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0651741,
+            "lon": 14.2988853
+        },
+        "name": "Sídliště Řepy",
+        "id": {
+            "node": 612,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.05729,
+            "lon": 14.5126009
+        },
+        "name": "Sídliště Zahradní Město",
+        "id": {
+            "node": 670,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0567169,
+            "lon": 14.5132627
+        },
+        "name": "Sídliště Zahradní Město",
+        "id": {
+            "node": 670,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.06447,
+            "lon": 14.3094015
+        },
+        "name": "Slánská",
+        "id": {
+            "node": 236,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0645523,
+            "lon": 14.3085308
+        },
+        "name": "Slánská",
+        "id": {
+            "node": 236,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0694427,
+            "lon": 14.4701052
+        },
+        "name": "Slavia - Nádraží Eden",
+        "id": {
+            "node": 680,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.06961,
+            "lon": 14.4712639
+        },
+        "name": "Slavia - Nádraží Eden",
+        "id": {
+            "node": 680,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0614624,
+            "lon": 14.4092731
+        },
+        "name": "Smíchovské nádraží",
+        "id": {
+            "node": 458,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.06118,
+            "lon": 14.4091988
+        },
+        "name": "Smíchovské nádraží",
+        "id": {
+            "node": 458,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.06207,
+            "lon": 14.4085579
+        },
+        "name": "Smíchovské nádraží",
+        "id": {
+            "node": 458,
+            "platform": 6
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07689,
+            "lon": 14.4938288
+        },
+        "name": "Solidarita",
+        "id": {
+            "node": 690,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07688,
+            "lon": 14.4947233
+        },
+        "name": "Solidarita",
+        "id": {
+            "node": 690,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09926,
+            "lon": 14.4186
+        },
+        "name": "Sparta",
+        "id": {
+            "node": 692,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0989876,
+            "lon": 14.416131
+        },
+        "name": "Sparta",
+        "id": {
+            "node": 692,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0918427,
+            "lon": 14.4985991
+        },
+        "name": "Spojovací",
+        "id": {
+            "node": 694,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.05094,
+            "lon": 14.4822063
+        },
+        "name": "Spořilov",
+        "id": {
+            "node": 697,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0684357,
+            "lon": 14.492631
+        },
+        "name": "Staré Strašnice",
+        "id": {
+            "node": 459,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.068,
+            "lon": 14.4932041
+        },
+        "name": "Staré Strašnice",
+        "id": {
+            "node": 459,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0882,
+            "lon": 14.4153233
+        },
+        "name": "Staroměstská",
+        "id": {
+            "node": 703,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.08846,
+            "lon": 14.4155474
+        },
+        "name": "Staroměstská",
+        "id": {
+            "node": 703,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.10465,
+            "lon": 14.52997
+        },
+        "name": "Starý Hloubětín",
+        "id": {
+            "node": 144,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1047058,
+            "lon": 14.5307112
+        },
+        "name": "Starý Hloubětín",
+        "id": {
+            "node": 144,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1043472,
+            "lon": 14.5299129
+        },
+        "name": "Starý Hloubětín",
+        "id": {
+            "node": 144,
+            "platform": 5
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0726,
+            "lon": 14.49049
+        },
+        "name": "Strašnická",
+        "id": {
+            "node": 713,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0730171,
+            "lon": 14.4910927
+        },
+        "name": "Strašnická",
+        "id": {
+            "node": 713,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0923157,
+            "lon": 14.4815359
+        },
+        "name": "Strážní",
+        "id": {
+            "node": 714,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09219,
+            "lon": 14.4810133
+        },
+        "name": "Strážní",
+        "id": {
+            "node": 714,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.098896,
+            "lon": 14.4328928
+        },
+        "name": "Strossmayerovo náměstí",
+        "id": {
+            "node": 717,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09888,
+            "lon": 14.433692
+        },
+        "name": "Strossmayerovo náměstí",
+        "id": {
+            "node": 717,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0986443,
+            "lon": 14.4332561
+        },
+        "name": "Strossmayerovo náměstí",
+        "id": {
+            "node": 717,
+            "platform": 4
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0991669,
+            "lon": 14.4332161
+        },
+        "name": "Strossmayerovo náměstí",
+        "id": {
+            "node": 717,
+            "platform": 5
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1257744,
+            "lon": 14.458662
+        },
+        "name": "Střelničná",
+        "id": {
+            "node": 676,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.12577,
+            "lon": 14.4591951
+        },
+        "name": "Střelničná",
+        "id": {
+            "node": 676,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0651,
+            "lon": 14.4291735
+        },
+        "name": "Svatoplukova",
+        "id": {
+            "node": 724,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.06499,
+            "lon": 14.4297009
+        },
+        "name": "Svatoplukova",
+        "id": {
+            "node": 724,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0594864,
+            "lon": 14.3934841
+        },
+        "name": "Škola Radlice",
+        "id": {
+            "node": 184,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.05945,
+            "lon": 14.3928709
+        },
+        "name": "Škola Radlice",
+        "id": {
+            "node": 184,
+            "platform": 4
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1111221,
+            "lon": 14.5046272
+        },
+        "name": "Špitálská",
+        "id": {
+            "node": 1052,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1108971,
+            "lon": 14.5054111
+        },
+        "name": "Špitálská",
+        "id": {
+            "node": 1052,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0756874,
+            "lon": 14.4224319
+        },
+        "name": "Štěpánská",
+        "id": {
+            "node": 739,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0756,
+            "lon": 14.4233189
+        },
+        "name": "Štěpánská",
+        "id": {
+            "node": 739,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1279755,
+            "lon": 14.4772806
+        },
+        "name": "Štěpničná",
+        "id": {
+            "node": 740,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.128006,
+            "lon": 14.4776621
+        },
+        "name": "Štěpničná",
+        "id": {
+            "node": 740,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0951347,
+            "lon": 14.43689
+        },
+        "name": "Štvanice",
+        "id": {
+            "node": 983,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0954056,
+            "lon": 14.4370117
+        },
+        "name": "Štvanice",
+        "id": {
+            "node": 983,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0754,
+            "lon": 14.4441853
+        },
+        "name": "Šumavská",
+        "id": {
+            "node": 744,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07529,
+            "lon": 14.4435558
+        },
+        "name": "Šumavská",
+        "id": {
+            "node": 744,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0784836,
+            "lon": 14.4041748
+        },
+        "name": "Švandovo divadlo",
+        "id": {
+            "node": 481,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07797,
+            "lon": 14.4041214
+        },
+        "name": "Švandovo divadlo",
+        "id": {
+            "node": 481,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.05303,
+            "lon": 14.474371
+        },
+        "name": "Teplárna Michle",
+        "id": {
+            "node": 751,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0526123,
+            "lon": 14.4749908
+        },
+        "name": "Teplárna Michle",
+        "id": {
+            "node": 751,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0916748,
+            "lon": 14.43649
+        },
+        "name": "Těšnov",
+        "id": {
+            "node": 952,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09172,
+            "lon": 14.4366312
+        },
+        "name": "Těšnov",
+        "id": {
+            "node": 952,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1001053,
+            "lon": 14.3870459
+        },
+        "name": "Thákurova",
+        "id": {
+            "node": 757,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.10011,
+            "lon": 14.385788
+        },
+        "name": "Thákurova",
+        "id": {
+            "node": 757,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.11618,
+            "lon": 14.4331179
+        },
+        "name": "Trojská",
+        "id": {
+            "node": 765,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1167564,
+            "lon": 14.4331169
+        },
+        "name": "Trojská",
+        "id": {
+            "node": 765,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1295357,
+            "lon": 14.4809046
+        },
+        "name": "Třebenická",
+        "id": {
+            "node": 467,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1007767,
+            "lon": 14.450017
+        },
+        "name": "Tusarova",
+        "id": {
+            "node": 81,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1034622,
+            "lon": 14.5185566
+        },
+        "name": "U Elektry",
+        "id": {
+            "node": 775,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1034737,
+            "lon": 14.5194426
+        },
+        "name": "U Elektry",
+        "id": {
+            "node": 775,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0836258,
+            "lon": 14.36335
+        },
+        "name": "U Kaštanu",
+        "id": {
+            "node": 778,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.08368,
+            "lon": 14.362874
+        },
+        "name": "U Kaštanu",
+        "id": {
+            "node": 778,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.11211,
+            "lon": 14.475318
+        },
+        "name": "U Kříže",
+        "id": {
+            "node": 779,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1123734,
+            "lon": 14.4757624
+        },
+        "name": "U Kříže",
+        "id": {
+            "node": 779,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1049232,
+            "lon": 14.4500265
+        },
+        "name": "U Průhonu",
+        "id": {
+            "node": 1122,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07154,
+            "lon": 14.3872185
+        },
+        "name": "U Zvonu",
+        "id": {
+            "node": 805,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0716362,
+            "lon": 14.3874207
+        },
+        "name": "U Zvonu",
+        "id": {
+            "node": 805,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0816765,
+            "lon": 14.4044437
+        },
+        "name": "Újezd",
+        "id": {
+            "node": 809,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0805359,
+            "lon": 14.4046516
+        },
+        "name": "Újezd",
+        "id": {
+            "node": 809,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.08125,
+            "lon": 14.4051809
+        },
+        "name": "Újezd",
+        "id": {
+            "node": 809,
+            "platform": 4
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0951843,
+            "lon": 14.4563847
+        },
+        "name": "Urxova",
+        "id": {
+            "node": 816,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0952148,
+            "lon": 14.4570971
+        },
+        "name": "Urxova",
+        "id": {
+            "node": 816,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07429,
+            "lon": 14.5323524
+        },
+        "name": "Ústřední dílny DP",
+        "id": {
+            "node": 807,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0746574,
+            "lon": 14.53242
+        },
+        "name": "Ústřední dílny DP",
+        "id": {
+            "node": 807,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.08167,
+            "lon": 14.4252787
+        },
+        "name": "Václavské náměstí",
+        "id": {
+            "node": 1072,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.08196,
+            "lon": 14.4257183
+        },
+        "name": "Václavské náměstí",
+        "id": {
+            "node": 1072,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1024,
+            "lon": 14.4327183
+        },
+        "name": "Veletržní palác",
+        "id": {
+            "node": 841,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1015434,
+            "lon": 14.4331732
+        },
+        "name": "Veletržní palác",
+        "id": {
+            "node": 841,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0897522,
+            "lon": 14.3511944
+        },
+        "name": "Větrník",
+        "id": {
+            "node": 844,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.08977,
+            "lon": 14.3509989
+        },
+        "name": "Větrník",
+        "id": {
+            "node": 844,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.08509,
+            "lon": 14.4444942
+        },
+        "name": "Viktoria Žižkov",
+        "id": {
+            "node": 172,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.084938,
+            "lon": 14.4453325
+        },
+        "name": "Viktoria Žižkov",
+        "id": {
+            "node": 172,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0770264,
+            "lon": 14.4875965
+        },
+        "name": "Vinice",
+        "id": {
+            "node": 1108,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0766754,
+            "lon": 14.4904842
+        },
+        "name": "Vinice",
+        "id": {
+            "node": 1108,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0770226,
+            "lon": 14.4427319
+        },
+        "name": "Vinohradská tržnice",
+        "id": {
+            "node": 850,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.077095,
+            "lon": 14.4413614
+        },
+        "name": "Vinohradská tržnice",
+        "id": {
+            "node": 850,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07544,
+            "lon": 14.4493246
+        },
+        "name": "Vinohradská vodárna",
+        "id": {
+            "node": 851,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0753555,
+            "lon": 14.4501257
+        },
+        "name": "Vinohradská vodárna",
+        "id": {
+            "node": 851,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07776,
+            "lon": 14.4802046
+        },
+        "name": "Vinohradské hřbitovy",
+        "id": {
+            "node": 849,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07759,
+            "lon": 14.4812164
+        },
+        "name": "Vinohradské hřbitovy",
+        "id": {
+            "node": 849,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0995255,
+            "lon": 14.39549
+        },
+        "name": "Vítězné náměstí",
+        "id": {
+            "node": 321,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1000748,
+            "lon": 14.3955345
+        },
+        "name": "Vítězné náměstí",
+        "id": {
+            "node": 321,
+            "platform": 4
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0992279,
+            "lon": 14.4381218
+        },
+        "name": "Vltavská",
+        "id": {
+            "node": 100,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0988121,
+            "lon": 14.4387655
+        },
+        "name": "Vltavská",
+        "id": {
+            "node": 100,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07966,
+            "lon": 14.4227362
+        },
+        "name": "Vodičkova",
+        "id": {
+            "node": 484,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0800362,
+            "lon": 14.4234324
+        },
+        "name": "Vodičkova",
+        "id": {
+            "node": 484,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0917358,
+            "lon": 14.360301
+        },
+        "name": "Vojenská nemocnice",
+        "id": {
+            "node": 858,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0917625,
+            "lon": 14.35979
+        },
+        "name": "Vojenská nemocnice",
+        "id": {
+            "node": 858,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1143875,
+            "lon": 14.4735737
+        },
+        "name": "Vosmíkových",
+        "id": {
+            "node": 861,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.11433,
+            "lon": 14.4729729
+        },
+        "name": "Vosmíkových",
+        "id": {
+            "node": 861,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.10788,
+            "lon": 14.5284014
+        },
+        "name": "Vozovna Hloubětín",
+        "id": {
+            "node": 1053,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.10747,
+            "lon": 14.5283308
+        },
+        "name": "Vozovna Hloubětín",
+        "id": {
+            "node": 1053,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.13281,
+            "lon": 14.4535465
+        },
+        "name": "Vozovna Kobylisy",
+        "id": {
+            "node": 864,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1327934,
+            "lon": 14.4536428
+        },
+        "name": "Vozovna Kobylisy",
+        "id": {
+            "node": 864,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1319427,
+            "lon": 14.4536324
+        },
+        "name": "Vozovna Kobylisy",
+        "id": {
+            "node": 864,
+            "platform": 5
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0678558,
+            "lon": 14.3414583
+        },
+        "name": "Vozovna Motol",
+        "id": {
+            "node": 865,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0678635,
+            "lon": 14.3403864
+        },
+        "name": "Vozovna Motol",
+        "id": {
+            "node": 865,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.05707,
+            "lon": 14.437892
+        },
+        "name": "Vozovna Pankrác",
+        "id": {
+            "node": 866,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0755577,
+            "lon": 14.489645
+        },
+        "name": "Vozovna Strašnice",
+        "id": {
+            "node": 848,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07545,
+            "lon": 14.4898138
+        },
+        "name": "Vozovna Strašnice",
+        "id": {
+            "node": 848,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.093895,
+            "lon": 14.3899612
+        },
+        "name": "Vozovna Střešovice",
+        "id": {
+            "node": 867,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09357,
+            "lon": 14.3890657
+        },
+        "name": "Vozovna Střešovice",
+        "id": {
+            "node": 867,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.092926,
+            "lon": 14.3304691
+        },
+        "name": "Vozovna Vokovice",
+        "id": {
+            "node": 868,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0931625,
+            "lon": 14.33147
+        },
+        "name": "Vozovna Vokovice",
+        "id": {
+            "node": 868,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0916824,
+            "lon": 14.475441
+        },
+        "name": "Vozovna Žižkov",
+        "id": {
+            "node": 837,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.09149,
+            "lon": 14.4745359
+        },
+        "name": "Vozovna Žižkov",
+        "id": {
+            "node": 837,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0913353,
+            "lon": 14.4751835
+        },
+        "name": "Vozovna Žižkov",
+        "id": {
+            "node": 837,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0691566,
+            "lon": 14.45422
+        },
+        "name": "Vršovické náměstí",
+        "id": {
+            "node": 391,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0690346,
+            "lon": 14.4548788
+        },
+        "name": "Vršovické náměstí",
+        "id": {
+            "node": 391,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1190453,
+            "lon": 14.46463
+        },
+        "name": "Vychovatelna",
+        "id": {
+            "node": 870,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.119236,
+            "lon": 14.4638386
+        },
+        "name": "Vychovatelna",
+        "id": {
+            "node": 870,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07984,
+            "lon": 14.34757
+        },
+        "name": "Vypich",
+        "id": {
+            "node": 872,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07974,
+            "lon": 14.3466778
+        },
+        "name": "Vypich",
+        "id": {
+            "node": 872,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1115036,
+            "lon": 14.5026817
+        },
+        "name": "Vysočanská",
+        "id": {
+            "node": 474,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.11121,
+            "lon": 14.5034561
+        },
+        "name": "Vysočanská",
+        "id": {
+            "node": 474,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1044,
+            "lon": 14.4319124
+        },
+        "name": "Výstaviště",
+        "id": {
+            "node": 532,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1048355,
+            "lon": 14.4327955
+        },
+        "name": "Výstaviště",
+        "id": {
+            "node": 532,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.10411,
+            "lon": 14.4311066
+        },
+        "name": "Výstaviště",
+        "id": {
+            "node": 532,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0681229,
+            "lon": 14.4150066
+        },
+        "name": "Výtoň",
+        "id": {
+            "node": 878,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0676727,
+            "lon": 14.4149752
+        },
+        "name": "Výtoň",
+        "id": {
+            "node": 878,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.06078,
+            "lon": 14.5051384
+        },
+        "name": "Zahradní Město",
+        "id": {
+            "node": 889,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0605659,
+            "lon": 14.5059776
+        },
+        "name": "Zahradní Město",
+        "id": {
+            "node": 889,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0773125,
+            "lon": 14.5003109
+        },
+        "name": "Zborov - Strašnické divadlo",
+        "id": {
+            "node": 900,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.077282,
+            "lon": 14.5010805
+        },
+        "name": "Zborov - Strašnické divadlo",
+        "id": {
+            "node": 900,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0724,
+            "lon": 14.4080925
+        },
+        "name": "Zborovská",
+        "id": {
+            "node": 901,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07243,
+            "lon": 14.4072037
+        },
+        "name": "Zborovská",
+        "id": {
+            "node": 901,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1072464,
+            "lon": 14.394433
+        },
+        "name": "Zelená",
+        "id": {
+            "node": 906,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.1076622,
+            "lon": 14.3946381
+        },
+        "name": "Zelená",
+        "id": {
+            "node": 906,
+            "platform": 4
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.04657,
+            "lon": 14.4080973
+        },
+        "name": "Zlíchov",
+        "id": {
+            "node": 914,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0457764,
+            "lon": 14.4075766
+        },
+        "name": "Zlíchov",
+        "id": {
+            "node": 914,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0706863,
+            "lon": 14.4341726
+        },
+        "name": "Zvonařka",
+        "id": {
+            "node": 1121,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0784149,
+            "lon": 14.4742584
+        },
+        "name": "Želivského",
+        "id": {
+            "node": 921,
+            "platform": 1
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0781975,
+            "lon": 14.4750652
+        },
+        "name": "Želivského",
+        "id": {
+            "node": 921,
+            "platform": 2
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0783463,
+            "lon": 14.4705038
+        },
+        "name": "Želivského",
+        "id": {
+            "node": 921,
+            "platform": 3
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.07833,
+            "lon": 14.471673
+        },
+        "name": "Želivského",
+        "id": {
+            "node": 921,
+            "platform": 4
+        }
+    },
+    {
+        "coordinate": {
+            "lat": 50.0797234,
+            "lon": 14.4726162
+        },
+        "name": "Želivského",
+        "id": {
+            "node": 921,
+            "platform": 12
+        }
+    }
+]
